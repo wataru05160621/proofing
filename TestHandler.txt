@@ -1,0 +1,9016 @@
+----st----
+html ['version', 'xmlns', 'xmlns:ix', 'xmlns:ixt', 'xmlns:xbrli', 'xmlns:xsi', 'xmlns:xlink', 'xmlns:link', 'xmlns:iso4217', 'xmlns:nonnum', 'xmlns:jpcrp_cor', 'xmlns:jppfs_cor', 'xmlns:jpcrp030000-asr_E04869-000', 'xmlns:jpdei_cor', 'xmlns:xbrldt', 'xmlns:xbrldi']
+----st----
+head []
+----st----
+meta ['http-equiv', 'content']
+----ed----
+meta
+----st----
+meta ['http-equiv', 'content']
+----ed----
+meta
+----st----
+meta ['http-equiv', 'content']
+----ed----
+meta
+----st----
+title []
+----ed----
+title
+----st----
+style ['type']
+----ed----
+style
+----ed----
+head
+----st----
+body []
+----st----
+div ['class']
+----st----
+div ['class']
+----st----
+h1 []
+----ed----
+h1
+----st----
+h2 []
+----ed----
+h2
+----st----
+h3 []
+----ed----
+h3
+----st----
+ix:nonNumeric ['name', 'contextRef', 'escape']
+----st----
+h4 []
+----ed----
+h4
+----st----
+div []
+----st----
+table ['style', 'cellpadding', 'cellspacing']
+----st----
+colgroup []
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----ed----
+colgroup
+----st----
+tbody []
+----st----
+tr []
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['colspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['colspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'xsi:nil']
+----ed----
+ix:nonFraction
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'xsi:nil']
+----ed----
+ix:nonFraction
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'xsi:nil']
+----ed----
+ix:nonFraction
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'xsi:nil']
+----ed----
+ix:nonFraction
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'xsi:nil']
+----ed----
+ix:nonFraction
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format', 'sign']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format', 'sign']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format', 'sign']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format', 'sign']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format', 'sign']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format', 'sign']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format', 'sign']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format', 'sign']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format', 'sign']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['rowspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+tbody
+----ed----
+table
+----ed----
+div
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+ix:nonNumeric
+----ed----
+div
+----st----
+div ['class']
+----st----
+ix:nonNumeric ['name', 'contextRef', 'escape']
+----st----
+h4 []
+----ed----
+h4
+----st----
+div []
+----st----
+table ['style', 'cellpadding', 'cellspacing']
+----st----
+colgroup []
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----ed----
+colgroup
+----st----
+tbody []
+----st----
+tr []
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['colspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['colspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['rowspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'xsi:nil']
+----ed----
+ix:nonFraction
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'xsi:nil']
+----ed----
+ix:nonFraction
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'xsi:nil']
+----ed----
+ix:nonFraction
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'xsi:nil']
+----ed----
+ix:nonFraction
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'xsi:nil']
+----ed----
+ix:nonFraction
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['rowspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+tbody
+----ed----
+table
+----ed----
+div
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+ix:nonNumeric
+----ed----
+div
+----st----
+div ['class']
+----st----
+ix:nonNumeric ['name', 'contextRef', 'escape']
+----st----
+h3 []
+----ed----
+h3
+----st----
+div []
+----st----
+table ['style', 'cellpadding', 'cellspacing']
+----st----
+colgroup []
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----ed----
+colgroup
+----st----
+thead []
+----st----
+tr []
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+thead
+----st----
+tbody []
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+tbody
+----ed----
+table
+----ed----
+div
+----ed----
+ix:nonNumeric
+----st----
+p ['style']
+----ed----
+p
+----ed----
+div
+----st----
+div ['class']
+----st----
+ix:nonNumeric ['name', 'contextRef', 'escape']
+----st----
+h3 []
+----ed----
+h3
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+div []
+----st----
+table ['style', 'cellpadding', 'cellspacing']
+----st----
+colgroup []
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----ed----
+colgroup
+----st----
+thead []
+----st----
+tr []
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+thead
+----st----
+tbody []
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+tbody
+----ed----
+table
+----ed----
+div
+----st----
+p ['style']
+----ed----
+p
+----st----
+div []
+----st----
+table ['style', 'cellpadding', 'cellspacing']
+----st----
+colgroup []
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----ed----
+colgroup
+----st----
+thead []
+----st----
+tr []
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+thead
+----st----
+tbody []
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+tbody
+----ed----
+table
+----ed----
+div
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+img ['style', 'src', 'alt']
+----ed----
+img
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+ix:nonNumeric
+----ed----
+div
+----st----
+div ['class']
+----st----
+ix:nonNumeric ['name', 'contextRef', 'escape']
+----st----
+h3 []
+----ed----
+h3
+----st----
+div []
+----st----
+table ['style', 'cellpadding', 'cellspacing']
+----st----
+colgroup []
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----ed----
+colgroup
+----st----
+thead []
+----st----
+tr []
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+thead
+----st----
+tbody []
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+tbody
+----ed----
+table
+----ed----
+div
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+ix:nonNumeric
+----ed----
+div
+----st----
+div []
+----st----
+ix:nonNumeric ['name', 'contextRef', 'escape']
+----st----
+h3 []
+----ed----
+h3
+----st----
+p ['style']
+----ed----
+p
+----st----
+div []
+----st----
+table ['style', 'cellpadding', 'cellspacing']
+----st----
+colgroup []
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----ed----
+colgroup
+----st----
+tbody []
+----st----
+tr []
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['colspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['colspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+tbody
+----ed----
+table
+----ed----
+div
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+div []
+----st----
+table ['style', 'cellpadding', 'cellspacing']
+----st----
+colgroup []
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----ed----
+colgroup
+----st----
+tbody []
+----st----
+tr []
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['colspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+tbody
+----ed----
+table
+----ed----
+div
+----st----
+p ['style']
+----ed----
+p
+----st----
+div []
+----st----
+table ['style', 'cellpadding', 'cellspacing']
+----st----
+colgroup []
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----st----
+col ['style']
+----ed----
+col
+----ed----
+colgroup
+----st----
+tbody []
+----st----
+tr []
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----st----
+td ['style']
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['colspan', 'style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----st----
+tr ['style']
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----st----
+td ['style']
+----st----
+p ['style']
+----st----
+span ['style']
+----ed----
+span
+----st----
+span ['style']
+----st----
+ix:nonFraction ['name', 'contextRef', 'unitRef', 'decimals', 'scale', 'format']
+----ed----
+ix:nonFraction
+----ed----
+span
+----st----
+span ['style']
+----ed----
+span
+----ed----
+p
+----ed----
+td
+----ed----
+tr
+----ed----
+tbody
+----ed----
+table
+----ed----
+div
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----st----
+p ['style']
+----ed----
+p
+----ed----
+ix:nonNumeric
+----ed----
+div
+----ed----
+div
+----ed----
+body
+----ed----
+html
